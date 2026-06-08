@@ -1,0 +1,12 @@
+{
+  "name": "linda-toko-adenium-web-project",
+  "version": "1.0.0",
+  "description": "Web Toko Adenium Linda Anugrah Wati",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -s . -l tcp://0.0.0.0:$PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
